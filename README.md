@@ -32,5 +32,8 @@ Modify the known_face_encodings and known_face_names arrays in the script to inc
 #License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
 #Acknowledgments
 Inspiration and guidance for this project were taken from various online tutorials and resources.
+![Screenshot (1)](https://github.com/aa0962/FaceRecognition_using_python/assets/103809188/6feb651e-3757-4d42-b486-e3945df3d182)
+
